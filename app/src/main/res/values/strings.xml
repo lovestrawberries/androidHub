@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Hub</string>
+    <string name="name">Name</string>
+    <string name="send">Send</string>
+    <string name="weather">Weather</string>
+    <string name="twitter">Twitter</string>
+    <string name="facebook">Facebook</string>
+    <string name="enter_a_name">Enter a name</string>
+    <string name="instagram">Instagram</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
